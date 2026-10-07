@@ -1,0 +1,15 @@
+---
+title: "CITI Certification"
+author: Pei Yun Chuang
+date: 10/06/2026
+format: html
+editor: visual
+---
+
+## College of Business Administration Certificate
+
+![](College of Business Certificate.png)
+
+## College of Business Administration Certificate
+
+![](Introduction to Human Subjects Certificate.png)
