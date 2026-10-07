@@ -8,8 +8,15 @@ editor: visual
 
 ## College of Business Administration Certificate
 
-![](College of Business Certificate.png)
+![](College%20of%20Business%20Certificate.png)
 
 ## College of Business Administration Certificate
 
-![](Introduction to Human Subjects Certificate.png)
+![](Introduction%20to%20Human%20Subjects%20Certificate.png)
+
+# Appendix
+
+The required links will be added after the project is uploaded and published.
+
+-   **GitHub Repository:** [View the GitHub Repository](https://github.com/candicechuang/M02-Quarto-Reflection)
+-   **GitHub Pages:** [View the Published HTML Report](https://candicechuang.github.io/IC8-2-CITI-Certification/)
